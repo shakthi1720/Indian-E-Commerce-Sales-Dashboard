@@ -32,7 +32,7 @@ Compare sales and profit by state, city, and payment mode
 Analyze seasonal and daily sales patterns
 
 Key Visuals
-📌 KPIs: Total Sales (2.17M), Profit (36.9K), Quantity (5,615), Avg. Order (291.85).
+📌 KPIs: Total Sales, Profit, Quantity, Avg. Order.
 📊 Donut Chart: Sales breakdown by Sub-Category.
 📈 Bar Chart: Sales & Profit by Payment Mode.
 🗺️ Map: Sales by State.
