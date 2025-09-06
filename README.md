@@ -47,4 +47,4 @@ Categories: Chairs and Printers generate the highest sales among sub-categories.
 Seasonality: Sales peak in January–March and dip mid-year, indicating strong seasonality effects.
 
 Screenshots / Demos
-Example: [Dashboard].(https://github.com/shakthi1720/Indian-E-Commerce-Sales-Dashboard/blob/main/Indian%20E-Commerce%20Sales%20Dashboard.png)
+Example: [Dashboard Preview].(https://github.com/shakthi1720/Indian-E-Commerce-Sales-Dashboard/blob/main/Indian%20E-Commerce%20Sales%20Dashboard.png)
